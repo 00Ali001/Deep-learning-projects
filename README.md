@@ -100,7 +100,7 @@ The goal is to explore and benchmark various deep learning architectures on biol
 If you’d like to suggest improvements, report issues, or contribute:
 
 - Open an **Issue** or **Pull Request**
-- Email: *your_email@example.com* (replace with your email)
+- Email: sa1696639@gmail.com
 - Check the **Issues** tab for planned improvements
 
 ---
